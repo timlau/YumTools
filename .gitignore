@@ -1,3 +1,5 @@
 /.project
 /.pydevproject
 /.settings/org.eclipse.core.resources.prefs
+/yum-daemon/dbus-test
+/yum-daemon/examples/vala/yum-api-test

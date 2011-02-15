@@ -3,3 +3,4 @@
 /.settings/org.eclipse.core.resources.prefs
 /yum-daemon/dbus-test
 /yum-daemon/examples/vala/yum-api-test
+/yum-daemon/examples/c/dbus-yum-test

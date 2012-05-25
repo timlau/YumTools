@@ -4,3 +4,5 @@
 /yum-daemon/dbus-test
 /yum-daemon/examples/vala/yum-api-test
 /yum-daemon/examples/c/dbus-yum-test
+/yum-daemon/log.txt
+/yum-daemon/Yum_Deamon.nja
